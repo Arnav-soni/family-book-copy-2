@@ -1,4 +1,4 @@
-var pics_array = [ "Familybookmage.jpg" ,"collage.png", "Arnav.jpg", "Karthik.jpg", "Richa.jpg", "Richa_arnav.jpg"];
+var pics_array = [ "Familybookmage.jpg" ,"collage.png", "Arnav.jpg", "Karthik123.jpg", "Richa.jpg", "Richa_arnav.jpg"];
 
 var text_array = ["Family collage", "Arnav", " Me and My Father", "My mother", "Me and My Mother", "Family Book"];
 var i = 1;
